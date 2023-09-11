@@ -49,6 +49,7 @@ export default function App() {
               <Icon name='cog-outline' color={color} size={26} />
             )
           }}/>
+          
       </Tab.Navigator>
     </NavigationContainer>
   );
